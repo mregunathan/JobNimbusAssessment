@@ -4,7 +4,7 @@ using JobNimbusAssessment;
 namespace JobNimbusUnitTests
 {
     [TestClass]
-    public class UnitTest1
+    public class MatchingBracketsTest
     {
         [TestMethod]
         public void Should_Return_True_if_macthing_Test1()
