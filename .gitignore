@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/JobNimbusAssessment/.vs/JobNimbusAssessment/v16
+/JobNimbusAssessment/bin/Debug/netcoreapp2.1
+/JobNimbusAssessment/obj
+/JobNimbusUnitTests/bin/Debug/netcoreapp2.1
+/JobNimbusUnitTests/obj/Debug/netcoreapp2.1
+/JobNimbusUnitTests/obj

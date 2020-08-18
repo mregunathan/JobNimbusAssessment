@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29001.49
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JobNimbusAssessment", "JobNimbusAssessment.csproj", "{0FA144C3-64F7-4734-B99B-3E123FB7656C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JobNimbusUnitTests", "..\JobNimbusUnitTests\JobNimbusUnitTests.csproj", "{464D046E-6228-42DF-B605-44CCE3DD3C03}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0FA144C3-64F7-4734-B99B-3E123FB7656C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FA144C3-64F7-4734-B99B-3E123FB7656C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FA144C3-64F7-4734-B99B-3E123FB7656C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FA144C3-64F7-4734-B99B-3E123FB7656C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{464D046E-6228-42DF-B605-44CCE3DD3C03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{464D046E-6228-42DF-B605-44CCE3DD3C03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{464D046E-6228-42DF-B605-44CCE3DD3C03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{464D046E-6228-42DF-B605-44CCE3DD3C03}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C9784B90-8ABE-4F58-B63E-2D9D7C3D8A03}
+	EndGlobalSection
+EndGlobal
